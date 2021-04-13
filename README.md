@@ -1,6 +1,6 @@
 # vscode-settings
 
-# Automatic
+## Automatic
 
 If you are looking forward to an easy one-stop tool to do it for you, I would suggest you to look into the Settings Sync extension.
 
@@ -9,7 +9,7 @@ It will allow:
 1) Export of your configuration and extensions
 2) Share it with coworkers and teams. You can update the configuration. Their settings will auto updated.
 
-# Manual
+## Manual
 
 1) Make sure you have the most current version of Visual Studio Code. If you install via a company portal, you might not have the most current version.
 
