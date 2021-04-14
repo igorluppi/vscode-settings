@@ -2,12 +2,12 @@
 
 ## Automatic
 
-If you are looking forward to an easy one-stop tool to do it for you, I would suggest you to look into the Settings Sync extension.
+If you are looking forward to an easy one-stop tool to do it for you, I would suggest you to look into the [Settings Sync extension](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync).
 
 It will allow:
 
-1) Export of your configuration and extensions
-2) Share it with coworkers and teams. You can update the configuration. Their settings will auto updated.
+1) *Export* of your configuration and extensions
+2) *Share* it with coworkers and teams. You can update the configuration. Their settings will auto updated.
 
 ## Manual
 
@@ -38,4 +38,4 @@ code --install-extension EditorConfig.EditorConfig
 code --install-extension HookyQR.beautify
 ```
 
-Please make sure you have the code command line installed. For more information, please visit Command Line Interface (CLI).
+Please make sure you have the `code` command line installed. For more information, please visit [Command Line Interface (CLI)](https://code.visualstudio.com/docs/editor/command-line).
